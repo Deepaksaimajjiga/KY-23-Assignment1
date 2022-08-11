@@ -7,7 +7,7 @@
 * Feel free to use swiper.js if you want; just make sure your **custom animation** is appealing (a glitch effect will be nicer, but feel free to animate it the way you want).
 * You can check out the assignment i made last year [image gallery](https://github.com/rohanb202/KY-frontend-assignment1).
 * Take inspiration from sources like dribbble, youtube, or even codepen, but try to create your own work, so you learn something from it.[example](https://dribbble.com/shots/15374169-Layout-010-Kombu-Artwork-Gallery).
-* Once started with the work, fill essential details in the form that we'll be sharing with you soon and submit your work on time, as I'll begin checking your code right after the deadline has reached, so you must not make any commits after submission time.
+* Once started with the work, fill essential details in the [form](https://forms.gle/ibQHHLH74g2JQfXJ7) and submit your work on time, as I'll begin checking your code right after the deadline has reached, so you must not make any commits after submission time.
 
 ## How to submit
 * Fork this repo.
@@ -17,6 +17,7 @@
 * Deploy your code on Github pages, netlify, or any other web hosting solution.
 * You must complete this task before 10 Aug at 11:59 pm IST.
 * Judging criteria will be your custom animation, bug-free, optimized code, with no commits made after the deadline has reached. The work's uniqueness will also be appreciated; feel free to add a custom scrollbar, custom cursor, preloader, etc, to stand out from others.
+* You should give the Github Link and the Deployed Link in the form given here :- [https://forms.gle/ibQHHLH74g2JQfXJ7](https://forms.gle/ibQHHLH74g2JQfXJ7)
   
 ## Scoring
 * The task has a total of 100 points. Completion of all the listed points in to-do gives you a maximum of 80 points.
